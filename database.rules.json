@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "queue": {
+      ".read": true,
+      ".write": true
+    },
+    ".read": false,
+    ".write": false
+  }
+}

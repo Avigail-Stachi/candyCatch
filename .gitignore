@@ -1,0 +1,40 @@
+# React / Node.js (בתוך client)
+client/node_modules/
+client/.cache/
+client/.temp/
+client/.npm/
+client/pnp.*
+client/pnp.js
+
+# React build output (נמצא ב-root)
+build/
+
+# Firebase
+.firebase/
+firebase-debug.log
+firebase-debug.*
+.firebaserc.local
+
+# Environment files
+client/.env
+client/.env.local
+client/.env.*.local
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
