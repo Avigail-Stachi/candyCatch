@@ -5,6 +5,9 @@ client/.temp/
 client/.npm/
 client/pnp.*
 client/pnp.js
+~$*
+*.tmp
+*.temp
 
 # React build output (נמצא ב-root)
 build/
